@@ -1,5 +1,5 @@
 # Alexa+ Is Here — The AI Revolution Your Smart Home Needs
-![Alexa+ Is Here — The AI Revolution Your Smart Home Needs](https://admin.groupify.ai/assets/5c5278bb-f63f-42f0-b694-f0c605877434)
+![Alexa+ Is Here — The AI Revolution Your Smart Home Needs]([image-url](https://admin.groupify.ai/assets/5c5278bb-f63f-42f0-b694-f0c605877434))
 
 Alexa's launch introduced the world to [AI assistants](https://groupify.ai/free-ai-tools). As soon as you utter a command, listening to your favorite tunes, setting alarms, or answering trivia questions is made simple. Imagine if an AI assistant could assist you beyond that. Imagine if it could actually understand you, understand what you need, and assist you navigate the complex details of everyday life effortlessly? That is what Amazon's latest endeavor in [generative AI](https://groupify.ai/generative-ai), Alexa+, is attempting to do.
 
